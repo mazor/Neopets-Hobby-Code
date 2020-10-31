@@ -1,0 +1,249 @@
+<div id="picture" style="position: absolute;"></div>
+<style>
+.smallfont {
+	font: 6pt arial;
+	color: #000000;
+	font-weight: bold;
+	letter-spacing: 0.5;
+	text-transform: uppercase;
+}
+table {
+	background: none;
+}
+#picture {
+	background: url("http://sunnyneo.com/petpage/PP_dreary_top.jpg");
+	z-index: -1;
+	width: 900px;
+	height: 430px;
+	left: 0px;
+	top: 0px;
+}
+body {
+	background: #1d1d1d url("http://sunnyneo.com/petpage/PP_dreary_bg.jpg") repeat-y;
+}
+.box1 h1, .box1 h2 {
+	font: 18px 'chiller';
+	color: #000000;
+	letter-spacing: 4px;
+	text-align: center;
+	background: url("http://sunnyneo.com/petpage/PP_dreary_header.png") no-repeat;
+	padding: 20px;
+	font-weight: bold;
+}
+#box1 {
+	left: 140px;
+	top: 215;
+	width: 633px;
+	z-index: 1;
+}
+#box1 {
+	font: 10pt 'century gothic';
+	letter-spacing: 0.5;
+	color: #ffffff;
+}
+b {
+	color: #dbd9dd;
+	font-weight: bold;
+}
+i {
+	font-style: italic;
+	font-weight: bold;
+	color: #c6c4c6;
+}
+u {
+	font-weight: bold;
+	color: #cccace;
+}
+a:link, a:visited {
+	color: #FF0000;
+	text-decoration: none;
+	letter-spacing: 1px;
+	font-weight: bold;
+}
+a:hover {
+	color: #0000A0;
+	text-decoration: none;
+	font-weight: bold;
+}
+table a img, center p {
+	height: 0px;
+	width: 0px;
+	overflow: hidden;
+}
+.spooky {
+	color: #FF0000;
+}
+td {
+	color: #ffffff;
+}
+</style><div id="box1" class="box1" style="position: absolute;">
+
+
+<h1>Introduction</h1>
+
+<p>Welcome Chillin Critters members to the annual <span class="spooky">Spookfest</span> (Halloween Dress up Competition). Your <span class="spooky">spooky </span>host this year is Sharon (dont_earn_np_on_side). Look at this page for <a href="#Deadlines">deadlines</a>, <a href="#Rules">rules</a>, <a href="#Applying">how to apply</a>, <a href="#Voting">how to vote</a>, and the entries (<a href="#Category1">cute</a>,<a href="#Category2">creepy</a>,<a href="#Category3">creative</a>, and <a href="#Category4">casual</a>). The winners are <a href="#Champions">here</a>. The participants and voters are <a href="#Participants">here</a>.
+ 
+<a name="Deadlines"></a>
+</p><h2>Deadlines</h2>
+<p>Applications start on the 1st of October
+</p><p>Applications close on the 23rd of October 6am NST
+</p><p>Voting begins on the 24th of October
+</p><p>Voting ends on the 30th of October 11:30pm NST
+</p><p>Winners crowned on the 31st of October
+<a name="Rules"></a>
+</p><h2>General Rules and Regulations</h2>
+<ol><li>MOST IMPORTANTLY, be nice please! Anyone being intentionally horrible will be kicked out the competition (and possibly from the guild if Becki deems it bad enough)</li>
+<li>No buying votes (this includes: gifts of services, voting for their pet expecting a vote back, NP, items) as this then becomes a competition on who has the most to spend rather than the best outfit </li>
+<li>Constructive criticism can be very useful and may even  be welcome but ensure IT IS before giving it :)</li>
+<li>Deadlines are final but applications may be changed up to the deadline</li>
+<li>Have fun!</li>
+</ol><a name="Applying"></a>
+<h2>Applying to Enter</h2>
+<h3>Rules:</h3>
+<ol><li>The outfit must be on your pet when you apply and must remain there until the picture is on this page (a neomail will be sent to you to let you know if you can change it) </li>
+<li>All applications are done via neomail to the host</li>
+<li>You may enter each of your pets (one entry per pet per category, up to 5 entries per category*)</li>
+<li>You may enter the same outfit for multiple categories even if it is on the same pet :)</li>
+</ol><p>You may change applications up to the deadline but the above rules remain! If you reapply with the same pet in a category you've already applied for, the outfit will be OVERRIDDEN so make sure that is what you want.
+</p><p>You may advertise your pet as much as you want once the outfit is on here (the host will also let the guild know of changes each time an outfit is added or overriden)
+</p><p>You may include a description (optional) with your application to explain the outfit but either make it under 40 characters or post it on the guild board instead :)
+</p><p>Descriptions can just be an outfit name if you would like (e.g. 'Ghost Buster')
+</p><p> Neomail<a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=dont_earn_np_on_side"> dont_earn_np_on_side</a> with the following example neomail:
+<br></p><center>
+Subject: My Spookfest Competition Application
+<br>
+Message: 
+<br>
+Category 1 - pet name (Description), pet2 name (Description)
+<br>
+Category 3 - pet3 name, pet4 name
+<br>
+Category 4 - pet5 name
+<br></center>
+<br>
+Your applications may require several neomails as the outfit must still be active when I view it as that is how I get the pictures and prove you had the outfit.
+<p>*Side pets are accepted but the max 5 rule is per person not per account. 
+</p>
+
+<a name="Voting"></a>
+<h2>Voting</h2>
+<h3>Rules:</h3>
+<ol><li>You may only vote once per category </li>
+<li>You cannot vote for your own pet (where would be the fun in that? :P) </li>
+<li>All votes are done by neomailing the host </li>
+<li>All votes are anonymous throughout the competition. If you want to share the pet you voted for either neomail the owner of that pet (but do not do it expecting a vote back, see rule 2 in General Rules and Regulations) or wait until the 31st of October </li><li>The host can vote but not enter their pets to be voted on </li>
+</ol><p> This competition works best if you vote based on the pet not the owner but it's your vote :)
+</p><p> Neomail<a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=dont_earn_np_on_side"> dont_earn_np_on_side</a> with the following example neomail:
+<br></p><center>Subject: My Spookfest Competition Votes</center>
+<br><center>Message: 
+<br>
+Category 1 - pet name
+<br>
+ 
+Category 2 - pet name 
+<br>
+
+Category 3 - pet name 
+<br>
+
+Category 4 - pet name 
+<br></center>
+<p>The pet doesn't need to be different in each category but make sure to vote for your favourite in each category! :D
+</p><h2>Examples</h2> 
+<h4>The host's pets are those used in this section, this is not a category that accepts applications or votes</h4>
+<table><tr><td>Pet Outfit:</td>
+<td><img src="http://pets.neopets.com/cp/55wgfd34/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/tqtdbqn6/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/cjn38ck6/1/2.png"></td>
+</tr><tr><td>Example of Category:</td><td>1</td><td>4</td><td>2</td></tr><tr><td>Description:</td><td>Pea pet hiding<br></td><td> Halloween? <br>I thought you said<br> negg fest!</td><td>Totally not a sacrifice scene</td>
+
+</tr><tr><td>Pet Name:</td><td> A_Tiny_Sweet_Pea</td><td> TheCrimsonComet</td><td>sillyme88</td></tr><tr><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/szdkn9fz/1/2.png"></td><td><img src="http://pets.neopets.com/cp/4dk8xk7s/1/2.png"></td><td><img src="http://pets.neopets.com/cp/z4lb9zh9/1/2.png"></td></tr><tr><td>Example of Category:</td><td>2</td><td>4</td><td>1 or 2</td></tr><tr><td>Description:</td><td>*Internal screaming*</td><td>Fall</td><td>Waiting for Someone</td></tr><tr><td>Pet Name:</td><td>Pindi_Pundi</td><td>Bellotita_7</td><td>Baby_Prothena</td></tr><tr></tr></table><a name="Category1"></a>
+
+
+
+<h2>Category 1: Cute Costumes </h2>
+<p>This category is for costumes that make you awww (e.g. is your baby pet dressed up like a frog? That's so cute!)
+</p>
+<table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/q3fw6vsj/1/2.png"></td><td><img src="http://pets.neopets.com/cp/bhjm95wj/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/bgon55dx/1/2.png"></td><tr><td>Description:</td><td>N/A</td><td>N/A</td><td>N/A</td></tr><tr><td>Pet Name:</td>
+<td>wbcv567</td><td>Owlee_200</td><td>marineaquaria </td></tr></table><table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/vnvmfwo5/1/2.png"></td><td><img src="http://pets.neopets.com/cp/979ks8b5/1/2.png"></td><td><img src="http://pets.neopets.com/cp/2dj5dwso/1/2.png"></td><tr><td>Description:</td><td>Super attack</td><td>Let's Go Fishing</td><td>N/A</td></tr><tr><td>Pet Name:</td><td>Peaskit</td><td>iguana_on_a_stick </td><td>Prowlor</td></tr></table><table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/jnm594s3/1/2.png"></td><td><img src="http://pets.neopets.com/cp/zvl2vc6w/1/2.png"></td><tr><td>Description:</td><td>N/A</td><td>N/A</td></tr><tr><td>Pet Name:</td><td>Puyumi</td><td>ScottBaioJr</td></tr></table><a name="Category2"></a>
+
+
+<h2>Category 2: Creepy Costumes </h2>
+<p>This category is for costumes that make you shiver with fear or disgust (e.g. is your pet dressed up like someone you wouldn't want to meet in an alleyway? That's so creepy!)
+</p><table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/94xnvokw/1/2.png"></td><td><img src="http://pets.neopets.com/cp/o4chgtbh/1/2.png"></td><td><img src="http://pets.neopets.com/cp/64tv99c9/1/2.png"></td><tr><td>Description:</td><td>N/A</td><td>The Gray <br>Camellia Girl</td><td>N/A</td></tr><tr><td>Pet Name:</td><td>SumSingSpehSo</td>
+<td>Luckcyr</td><td>Rocky_911</td></tr></table><table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/jt6qcmt4/1/2.png"></td><td><img src="http://pets.neopets.com/cp/78j4v7vj/1/2.png"></td><td><img src="http://pets.neopets.com/cp/tv5oqlr8/1/2.png"></td><tr><td>Description:</td><td>N/A</td><td>Never go to <br>the light</td><td>Mutant Surprise</td></tr><tr><td>Pet Name:</td>
+<td>MarineAquaria</td><td>Ryuk_doragon</td><td>Yoshe_Kohana </td></tr></table><table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/899j34x4/1/2.png"></td><td><img src="http://pets.neopets.com/cp/rdfwlcjo/1/2.png"></td><td><img src="http://pets.neopets.com/cp/lmjvk3ho/1/2.png"></td><tr><td>Description:</td><td>N/A</td><td>Wanna a <br>creepy ride?</td><td>Highway Bandit</td></tr><tr><td>Pet Name:</td>
+<td>LucianoBu </td><td>CreepyWalker </td><td>Hooligan9  </td></tr></table><table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/mxjsf54f/1/2.png"></td><td><img src="http://pets.neopets.com/cp/78zt3xlm/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/dfw36xns/1/2.png"></td><tr><td>Description:</td><td>N/A</td><td>I solumnly swear<br>that I am up to<br>no good</td><td>headless graveyard guardian</td></tr><tr><td>Pet Name:</td>
+<td>E_Meow</td><td>Pryanica</td><td>Butch1998707</td></tr></table><table><td>Pet Outfit:</td>
+<td><img src="http://pets.neopets.com/cp/vsxq9xz7/1/2.png"></td><td><img src="http://pets.neopets.com/cp/jnm594s3/1/2.png"></td><tr><td>Description:</td><td>N/A</td><td>N/A</td></tr><tr><td>Pet Name:</td>
+<td>_Hush_</td><td>Puyumi</td></tr></table><a name="Category3"></a>
+<h2>Category 3: Creative Costumes </h2>
+<p>This category is for costumes that make you say huh, that's pretty cool! (Creativity is subjective but give it a go!)
+</p>
+<table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/o4chgtbh/1/2.png"></td><td><img src="http://pets.neopets.com/cp/w8xgthzz/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/85r2lng5/1/2.png"></td><tr><td>Description:</td><td>N/A</td><td>N/A</td><td>N/A</td></tr><tr><td>Pet Name:</td>
+<td>Luckcyr</td><td>NickandGreg</td><td>bukcomo</td></tr></table><table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/78j4v7vj/1/2.png"></td><td><img src="http://pets.neopets.com/cp/bgon55dx/1/2.png"></td><td><img src="http://pets.neopets.com/cp/tv5oqlr8/1/2.png"></td><tr><td>Description:</td><td>Never go to <br>the light</td><td>N/A</td><td>Mutant Surprise</td></tr><tr><td>Pet Name:</td><td>Ryuk_doragon</td><td>marineaquaria</td><td>Yoshe_Kohana</td></tr></table><table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/k28ksk4f/1/2.png"></td><td><img src="http://pets.neopets.com/cp/rdfwlcjo/1/2.png"></td><td><img src="http://pets.neopets.com/cp/vnvmfwo5/1/2.png"></td><tr><td>Description:</td><td>Grumpy Old King <br>-King Skarl's <br>Biggest Fan</td><td>Wanna a <br>creepy ride?</td><td>Super attack</td></tr><tr><td>Pet Name:</td><td>Pancake_Eater_</td><td>CreepyWalker </td><td>Peaskit </td></tr></table><table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/lmjvk3ho/1/2.png"></td><td><img src="http://pets.neopets.com/cp/mxjsf54f/1/2.png"></td><td><img src="http://pets.neopets.com/cp/78zt3xlm/1/2.png"></td><tr><td>Description:</td><td>Highway Bandit
+</td><td>N/A</td><td>I solumnly swear<br>that I am up to<br>no good</td></tr><tr><td>Pet Name:</td><td>Hooligan9</td><td>E_Meow</td><td>Pryanica</td></tr></table><table><td>Pet Outfit:</td>
+<td><img src="http://pets.neopets.com/cp/dfw36xns/1/2.png"></td><td><img src="http://pets.neopets.com/cp/vsxq9xz7/1/2.png"></td><td><img src="http://pets.neopets.com/cp/jnm594s3/1/2.png"></td><tr><td>Description:</td><td>headless <br>graveyard <br>guardian</td><td>NA</td><td>NA</td></tr><tr><td>Pet Name:</td>
+<td>Butch1998707</td><td>_Hush_</td><td>Puyumi</td></tr></table><table><td>Pet Outfit:</td>
+<td><img src="http://pets.neopets.com/cp/tbhc4s3w/1/2.png"></td><td><img src="http://pets.neopets.com/cp/899j34x4/1/2.png"></td><tr><td>Description:</td><td>N/A</td><td>N/A</td></tr><tr><td>Pet Name:</td>
+<td>Starscape07</td><td>LucianoBu</td></tr></table><a name="Category4"></a>
+<h2>Category 4: Casual Costumes</h2>
+<p>Have you ever been the older sibling of a child that's going trick or treating and you need to accompany them and would rather be anywhere else? Did you ever give a half hearted attempt at a Halloween outfit? This category is for costumes that could be actual outfits around the year (e.g. wearing lots of black to a Halloween party that you aren't sure if it is a costume party or not and you didn't think to ask) This category is also for all those that came up with outfits that aren't really 'Halloween' themed</p>
+
+<table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/w8xgthzz/1/2.png"></td><td><img src="http://pets.neopets.com/cp/jt6qcmt4/1/2.png"></td><td><img src="http://pets.neopets.com/cp/85r2lng5/1/2.png"></td><tr><td>Description:</td><td>N/A</td><td>N/A</td><td>N/A</td></tr><tr><td>Pet Name:</td>
+<td>NickandGreg</td>
+<td>MarineAquaria</td><td>bukcomo</td></tr></table><table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/nkoz5vz2/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/6r2kst5b/1/2.png"></td><td><img src="http://pets.neopets.com/cp/vnvmfwo5/1/2.png"></td><tr><td>Description:</td><td>N/A</td><td>Island Survivalist</td><td>Super attack</td></tr><tr><td>Pet Name:</td>
+<td>Petpet_Slave_1</td><td>1MartinTruexJr</td><td>Peaskit </td></tr></table><table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/8ht36nlf/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/tw5h3ksv/1/2.png"></td><td><img src="http://pets.neopets.com/cp/zvl2vc6w/1/2.png"></td><tr><td>Description:</td><td>Ready to Collect<br>Some Candy</td><td>Dreaming of <br>Christmas</td><td>N/A</td></tr><tr><td>Pet Name:</td><td>Deaelei </td><td>Ka_dragon_  </td><td>ScottBaioJr</td></tr></table><table><td>Pet Outfit:</td>
+<td><img src="http://pets.neopets.com/cp/tbhc4s3w/1/2.png"></td><td><img src="http://pets.neopets.com/cp/vsqtrm3v/1/2.png"></td><tr><td>Description:</td><td>NA</td><td>NA</td></tr><tr><td>Pet Name:</td>
+<td>Starscape07</td><td>AnnaBelle_Grace__40</td></tr></table><a name="Champions"></a>
+<h2>The Champions</h2>
+<p>The winners after voting finished</p>
+<h3>Category 1 Winners (draw)</h3>
+<table><tr><td>Owner:</td><td>spiritomato</td><td>moonheart07</td></tr><tr><td>Pet Name:</td><td>Prowlor </td><td>ScottBaioJr </td></tr><tr><td>Pet Image:</td><td><img src="http://pets.neopets.com/cp/2dj5dwso/1/2.png"></td><td><img src="http://pets.neopets.com/cp/zvl2vc6w/1/2.png"></td></tr><tr><td>Prize:</td><td>Spring Faellie</td><td>Spring Faellie</td></tr></table><h3>Category 2 Winner</h3>
+<table><tr><td>Owner:</td><td>neko_taku</td></tr><tr><td>Pet Name:</td><td>Ryuk_doragon </td></tr><tr><td>Pet Image:</td><td><img src="http://pets.neopets.com/cp/78j4v7vj/1/2.png"></td></tr><tr><td>Prize:</td><td>Platinum Nerkmid XX</td></tr></table><h3>Category 3 Winners (draw, tiebreaker done)</h3>
+<table><tr><td>Owner:</td><td>maccario2017</td><td>neko_taku</td><td>joanna_lewis</td></tr><tr><td>Pet Name:</td><td>CreepyWalker </td><td>Ryuk_doragon </td><td>Hooligan9</td></tr><tr><td>Pet Image:</td><td><img src="http://pets.neopets.com/cp/rdfwlcjo/1/2.png"></td><td><img src="http://pets.neopets.com/cp/78j4v7vj/1/2.png"></td><td><img src="http://pets.neopets.com/cp/lmjvk3ho/1/2.png"></td></tr><tr><td>Prize:</td><td>Lutra (WINNER)</td><td>Christmas Petpet<br> Paint Brush<br>(RUNNER UP)</td><td>Christmas Petpet<br> Paint Brush<br>(RUNNER UP)</td></tr></table><h3>Category 4 Winner</h3>
+
+<table><tr><td>Owner:</td><td>joanna_lewis</td></tr><tr><td>Pet Name:</td><td>Deaelei </td></tr><tr><td>Pet Image:</td><td><img src="http://pets.neopets.com/cp/8ht36nlf/1/2.png"></td></tr><tr><td>Prize:</td><td>Mr. Krawley Stamp </td></tr></table><a name="Participants"></a>
+<h2>The Participants</h2>
+<h3>Thank you for participating:</h3>
+<h4>People who entered their pet:</h4>
+<p>
+hello_101265, stupid_browner17, neko_taku, creepy_200, 
+gmann11, maccario2017, joanna_lewis, princeice10, 
+creepycrawly200, spiritomato, and moonheart07
+<br>
+Thank you, they were all great!
+
+</p><h4>People who voted (excluding me):</h4>
+
+creepy_200, princeice10, spiritomato, moonheart07, 
+joanna_lewis, gmann11, stupid_browner17, neko_taku, 
+maccario2017, and creepycrawly200
+<br>
+Thank you, voting's an important role!
+<br>
+(The two lists above orders are just the order I recieved neomails, it's not in any vote order or anything like that)
+
+<h3>Gifts:</h3>
+
+<h4>Participation for entering: </h4>
+Spooky Lantern<br>
+
+Spooky Doughnut
+
+<h4>Participation for voting:</h4>
+Pile of Spooky Laundry<br>
+
+Spooky Skull Perfume<br>
+
+Spooky Shake
+
+
+</div>
+
+

@@ -1,0 +1,286 @@
+<div id="picture" style="position: absolute;"></div>
+<style>
+table {
+	background: none;
+}
+#picture {
+	background: url("http://imagizer.imageshack.us/a/img905/5915/5zR1OP.jpg");
+	z-index: -1;
+	width: 100%;
+	height: 400px;
+	left: 0px;
+	top: 0px;
+}
+body {
+	background: #1d1d1d url("http://images.neopets.com/backgrounds/chombybk.gif") repeat;
+	text-align: center;
+}
+.box1 h1, .box1 h2 {
+	font: 24px 'didot';
+	color: #654321;
+	letter-spacing: 4px;
+	text-align: center;
+	background: url("http://images.neopets.com/backgrounds/flowerfiesta2007.gif");
+	padding: 20px;
+	font-weight: bold;
+}
+#box1 {
+	left: 20%;
+	top: 215;
+	width: 60%;
+	z-index: 1;
+	text-align: center;
+	display: inline-block;
+}
+#box1 {
+	font: 12pt 'century gothic';
+	letter-spacing: 0.5;
+	color: #000000;
+}
+#intro, .intro {
+	font: 12pt 'century gothic';
+	letter-spacing: 0.5;
+}
+b {
+	color: #dbd9dd;
+	font-weight: bold;
+}
+i {
+	font-style: italic;
+	font-weight: bold;
+	color: #c6c4c6;
+}
+u {
+	font-weight: bold;
+	color: #cccace;
+}
+a:link, a:visited {
+	color: #FFFF00;
+	text-decoration: none;
+	letter-spacing: 1px;
+	font-weight: bold;
+}
+a:hover {
+	color: #0000A0;
+	text-decoration: none;
+	font-weight: bold;
+}
+table a img, center p {
+	height: 0px;
+	width: 0px;
+	overflow: hidden;
+}
+table {
+	margin: 0 auto;
+}
+ol {
+	margin: 0;
+	text-align: left;
+}
+h4 {
+	font: 14pt;
+}
+</style><div id="box1" class="box1" style="position: absolute;">
+
+<div id="intro">
+<h1>Introduction</h1>
+
+<p>Welcome Chillin Critters members to the annual SummerFest (Summer Dress up Competition). Your host this year is Sharon (dont_earn_np_on_side). Look at this page for <a href="#Deadlines">deadlines</a>, <a href="#Rules">rules</a>, <a href="#Applying">how to apply</a>, <a href="#Voting">how to vote</a>, and the entries (<a href="#Category1">cute</a>, <a href="#Category2">creative</a>, and <a href="#Category3">casual</a>). Examples can be seen <a href="#Examples">here</a>. The winners are <a href="#Champions">here</a>. The participants and voters are <a href="#Participants">here</a>.
+</p></div>
+<a name="Deadlines"></a>
+<h2>Deadlines</h2>
+<p>Applications start on the 29th of July
+</p><p>Applications close on the 14th of August 6am NST
+</p><p>Voting begins on the 15th of August
+</p><p>Voting ends on the <strike>22nd</strike> 29th of August 11:30pm NST
+</p><p>Winners crowned on the <strike>23rd</strike> 30th of August
+<a name="Rules"></a>
+</p><h2>General Rules and Regulations</h2>
+<ol><li>MOST IMPORTANTLY, be nice please! Anyone being intentionally horrible will be kicked out the competition (and possibly from the guild if Becki deems it bad enough)</li>
+<li>No buying votes (this includes: gifts of services, voting for their pet expecting a vote back, NP, items) as this then becomes a competition on who has the most to spend rather than the best outfit </li>
+<li>Constructive criticism can be very useful and may even  be welcome but ensure IT IS before giving it :)</li>
+<li>Deadlines are final but applications may be changed up to the deadline</li>
+<li>Have fun!</li>
+</ol><a name="Applying"></a>
+<h2>Applying to Enter</h2>
+<h3>Rules:</h3>
+<ol><li>The outfit must be on your pet when you apply and must remain there until the picture is on this page (a neomail will be sent to you to let you know if you can change it) </li>
+<li>All applications are done via neomail to the host</li>
+<li>You may enter multiple pets (one entry per pet per category, up to 5 entries per category*)</li>
+<li>You may enter the same outfit for multiple categories even if it is on the same pet :)</li>
+</ol><p>You may change applications up to the deadline but the above rules remain! If you reapply with the same pet in a category you've already applied for, the outfit will be OVERRIDDEN so make sure that is what you want.
+</p><p>You may advertise your pet as much as you want once the outfit is on here (the host will also let the guild know of changes each time an outfit is added or overriden)
+</p><p>You may include an outfit name/description (optional) with your application to explain the outfit but either make it under 40 characters or post it on the guild board instead :) An example would be 'Beach Buddy'
+</p><p> Neomail<a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=dont_earn_np_on_side"> dont_earn_np_on_side</a> with the following example neomail:
+<br></p><center>
+Subject: My SummerFest Competition Application
+<br>
+Message: 
+<br>
+Category 1 - pet name (Description), pet2 name (Description)
+<br>
+Category 3 - pet3 name, pet4 name
+<br></center>
+<br>
+Your applications may require several neomails as the outfit must still be active when I view it as that is how I get the pictures and prove you had the outfit.
+<p>*Side Account pets are acceptable. Max 5 rule is per person not per account. So you may have for example 3 from your main and 2 from your side.
+</p>
+
+<a name="Voting"></a>
+<h2>Voting</h2>
+<h3>Rules:</h3>
+<ol><li>You may only vote once per category </li>
+<li>You cannot vote for your own pet (where would be the fun in that? :P) </li>
+<li>All votes are done by neomailing the host </li>
+<li>All votes are anonymous throughout the competition. If you want to share the pet you voted for either neomail the owner of that pet (but do not do it expecting a vote back, see rule 2 in General Rules and Regulations) or wait until the winner has been announced </li><li>The host can vote but not enter their pets to be voted on </li>
+</ol><p> This competition works best if you vote based on the pet not the owner but it's your vote :)
+</p><p> Neomail<a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=dont_earn_np_on_side"> dont_earn_np_on_side</a> with the following example neomail:
+<br></p><center>Subject: My Summerfest Competition Votes</center>
+<br><center>Message: 
+<br>
+Category 1 - pet name
+<br>
+ 
+Category 2 - pet name 
+<br>
+
+Category 3 - pet name 
+<br></center>
+<p>The pet doesn't need to be different in each category but make sure to vote for your favourite in each category! :D
+</p><a name="Examples"></a>
+<h2>Examples</h2> 
+<h4>The host's pets are those used in this section, this is not a category that accepts applications or votes</h4>
+
+<table><tr><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/l8d5b3w8/1/2.png"></td><td><img src="http://pets.neopets.com/cp/55wgfd34/1/2.png"></td><td><img src="http://pets.neopets.com/cp/zx3t6nkw/1/2.png"></td></tr><tr><td>Example of Category:</td><td>1</td><td>1</td><td>2</td></tr><tr><td>Description:</td><td>Summer Camping</td><td>Hide and Seek<br>with a pea pet</td><td>Walking Amongst<br> the Flowers</td></tr><tr><td>Pet Name:</td><td>Baby_Prothena</td><td>A_Tiny_Sweet_Pea</td><td>Princess_Prothena</td></tr><tr></tr><tr><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/6nlh9rmg/1/2.png"></td><td><img src="http://pets.neopets.com/cp/r2vr9sqb/1/2.png"></td><td><img src="http://pets.neopets.com/cp/7h6fb7rm/1/2.png"></td></tr><tr><td>Example of Category:</td><td>3</td><td>3</td><td>3</td></tr><tr><td>Description:</td><td>Summer Vibes</td><td>Chilling on the<br>Beach</td><td>Summer Blooms</td></tr><tr><td>Pet Name:</td><td>L_I_K_E_M_E</td><td>TheCrimsonComet</td><td>Princess_Prothena</td></tr><tr></tr></table><a name="Category1"></a>
+
+
+
+<h2>Category 1: Cute Costumes </h2>
+<p>This category is for costumes that make you awww (e.g. is your baby pet dressed up like a frog? That's so cute!)
+</p>
+<table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/ltwkkvhg/1/2.png"></td><td><img src="http://pets.neopets.com/cp/v682vs6b/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/2jbj9749/1/2.png"></td><tr><td>Description:</td><td>High Tea<br>
+Red Hat Neopet<br>Ladies
+</td><td>Blooming Flowers
+</td><td>Christmas in <br>July<br>
+Celebrating on <br>the beach</td></tr><tr><td>Pet Name:</td>
+<td>Zynthealien</td><td>Cooper79</td><td>Ayden9</td></tr></table><table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/7b3rq3gg/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/2vbjq9sv/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/q3nk59nr/1/2.png"></td>
+<tr><td>Description:</td><td>Ronolax says "It's<br>PARTY time!<br>WOOHOO!" </td><td>T'was the morning<br>after Christmas<br>when all through<br>the house,<br>she was trying<br>to be creative<br>and try on ALL her<br>gifts at once. 
+</td><td>Beach Day</td></tr><tr><td>Pet Name:</td>
+<td>Ronolax</td><td>MarineAquaria</td><td>1martintruexjr</td>
+</tr></table><table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/qkbvdv9q/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/4jrfnmm7/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/jtxf9so9/1/2.png"></td>
+<tr><td>Description:</td><td>N/A</td><td>Getting ready<br>for bed.<br>
+Hot chocolate<br>and music to help<br>me relax.</td><td>A Magical Moment<br>Shades of Purple</td></tr><tr><td>Pet Name:</td>
+<td>Hotfudge_9</td><td>sea_diver1st</td><td>Brackenite</td>
+</tr></table><a name="Category2"></a>
+
+<h2>Category 2: Creative Costumes </h2>
+<p>This category is for costumes that make you say huh, that's pretty cool! (Creativity is subjective but give it a go!)
+</p>
+<table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/w72qvdcf/1/2.png"></td><td><img src="http://pets.neopets.com/cp/o4rvgzn3/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/x3gkrc6g/1/2.png"></td><tr><td>Description:</td><td>Market Day <br>(Painted Neggs<br> For Sale)
+</td><td>Rockin It <br>Get your groove<br>on
+</td><td>My Hero and his <br>sidekick Pooky<br>
+Ready to take<br>on the world!!
+</td></tr><tr><td>Pet Name:</td>
+<td>Brackenite</td><td>kieren6</td><td>sea_diver1st</td>
+</tr></table><table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/flbmmv88/1/2.png"></td><td><img src="http://pets.neopets.com/cp/shcl79gg/1/2.png"></td><td><img src="http://pets.neopets.com/cp/2jbj9749/1/2.png"></td><tr><td>Description:</td><td>Outdoor Tea Party
+</td><td>N/A</td><td>Christmas on <br>the Beach<br>
+Playing with my<br>presents</td></tr><tr><td>Pet Name:</td>
+<td>Pancake_Eater_</td><td>IndoTyrant</td><td>Ayden9</td>
+</tr></table><table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/m2q854sw/1/2.png"></td><td><img src="http://pets.neopets.com/cp/cs3blgco/1/2.png"></td><td><img src="http://pets.neopets.com/cp/v6wh2rn6/1/2.png"></td><tr><td>Description:</td><td>Her Royal Majesty<br>Queen of Her <br>Domain</td><td>Gypsy Fortune <br>Teller</td><td>Dripping in Finesse</td></tr><tr><td>Pet Name:</td>
+<td>caiti748</td><td>Snoutty_1</td><td>Super_Scorchio</td>
+</tr></table><table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/qz4qj2jn/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/8vckdf9t/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/2hs6fwh4/1/2.png"></td>
+<tr><td>Description:</td><td>Flights of Fancy</td><td>Pretty in Bloom</td><td>Court Jester</td></tr><tr><td>Pet Name:</td>
+<td>Ka_Dragon_</td><td>Pryanica</td><td>Deaelei</td>
+</tr></table><table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/tqror8st/1/2.png"></td>
+<td><img src="http://images.neopets.com/backgrounds/acara_swimming.gif"></td>
+<td><img src="http://images.neopets.com/backgrounds/acara_swimming.gif"></td>
+<tr><td>Description:</td><td>N/A</td><td>N/A</td><td>N/A</td></tr><tr><td>Pet Name:</td>
+<td>Keyera_blue</td><td>name2</td><td>name3</td>
+</tr></table><a name="Category3"></a>
+<h2>Category 3: Casual Costumes</h2>
+<p>This category can include outfits your pet can relax in. It can include outfits you could wear year-round. This category is also for all those that came up with outfits that aren't really 'summer' themed</p>
+
+<table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/djj73d6w/1/2.png"></td><td><img src="http://pets.neopets.com/cp/97nv2swx/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/4mx3mw3c/1/2.png"></td><tr><td>Description:</td><td>N/A</td><td>Artist at work</td><td>Heading Home<br>A day of shopping
+</td></tr><tr><td>Pet Name:</td>
+<td>Myfirstactualhisi</td><td>Yoshe_Kohana</td><td>Cooper79</td></tr></table><table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/mkz29b7b/1/2.png"></td><td><img src="http://pets.neopets.com/cp/wztvnmxm/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/nl2q4sdr/1/2.png"></td><tr><td>Description:</td><td>N/A
+</td><td>Mid summer nights<br>dream</td><td>Snowboarding<br>seemed like a<br>great way to relax<br> until I realized<br>how COLD <br>I'd be doing it</td></tr><tr><td>Pet Name:</td>
+<td>Maramoxx </td><td>kiiko_kiiko__37</td><td>Rocky_911</td></tr></table><table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/ko5m4fwh/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/43fzc799/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/4lwgxjvo/1/2.png"></td>
+<tr><td>Description:</td><td>Just relaxing on<br>her farm after<br>plowing the<br> fields in "Children <br>of the Corn<br>fashion -<br> mwahahaha.</td><td>Another day with<br>Covid 19<br>Curling up with a<br>cuppa and a<br>good book
+</td><td>Just another day<br>in the office.
+</td></tr><tr><td>Pet Name:</td>
+<td>Peas_avatar</td><td>Zynthealien</td><td>sea_diver1st</td>
+</tr></table><table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/kj7t4gxn/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/qz4qj2jn/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/h537f8mh/1/2.png"></td>
+<tr><td>Description:</td><td>Camp Out<br>You never know<br>who might drop in</td><td>Flights of Fancy</td><td> Relaxin' in the<br>Summertime</td></tr><tr><td>Pet Name:</td>
+<td>Brackenite</td><td>Ka_Dragon_</td><td>Hooligan9</td>
+</tr></table><table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/8vckdf9t/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/ohfmhc67/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/br3tthod/1/2.png"></td>
+<tr><td>Description:</td><td>Pretty in Bloom</td><td>N/A</td><td>N/A</td></tr><tr><td>Pet Name:</td>
+<td>Pryanica</td><td>Dinocornx</td><td>Kwel_n_Cute</td>
+</tr></table><table><td>Pet Outfit:</td><td><img src="http://pets.neopets.com/cp/4ctdj5wq/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/tqror8st/1/2.png"></td>
+<td><img src="http://pets.neopets.com/cp/gn8fjt54/1/2.png"></td>
+<tr><td>Description:</td><td>N/A</td><td>N/A</td><td>N/A</td></tr><tr><td>Pet Name:</td>
+<td>Starscape07</td><td>Keyera_blue</td><td>caiti748</td>
+</tr></table><a name="Champions"></a>
+<h2>The Champions</h2>
+<p>The winners after voting finished</p>
+<h3>Category 1 Winner</h3>
+<table><tr><td>Owner:</td><td>creepy_200 (Becki)</td></tr><tr><td>Pet Name:</td><td>Ronolax</td></tr><tr><td>Pet Image:</td><td><img src="http://pets.neopets.com/cp/7b3rq3gg/1/4.png"></td></tr><tr><td>Prize:</td><td>Spardel<br>Spotted Petpet Paint Brush<br>(They make a spotted spardel together)</td></tr></table><h3>Category 2 Winner</h3>
+<table><tr><td>Owner:</td><td>tabu79 (Cindy)</td></tr><tr><td>Pet Name:</td><td>kieren6</td></tr><tr><td>Pet Image:</td><td><img src="http://pets.neopets.com/cp/o4rvgzn3/1/4.png"></td></tr><tr><td>Prize:</td><td>Lever of Doom Halloween Negg</td></tr></table><h3>Category 3 Winners</h3>
+<table><tr><td>Owner:</td><td>tabu79 (Cindy)</td></tr><tr><td>Pet Name:</td><td>sea_diver1st</td></tr><tr><td>Pet Image:</td><td><img src="http://pets.neopets.com/cp/4lwgxjvo/1/4.png"></td></tr><tr><td>Prize:</td><td>Confusionegg</td></tr></table><a name="Participants"></a>
+<h2>The Participants</h2>
+<h3>Thank you for participating:</h3>
+<h4>People who entered their pet:</h4>
+<p>
+tabu79
+<br>
+animalfrenzy92
+<br>
+gmann11<br>
+chipmunk1615 <br>
+bailey0132317<br>
+creepy_200<br>
+joanna_lewis<br>
+moonheart07 <br><br>
+Thank you, they were all great!
+
+</p><h4>People who voted (excluding me):</h4>
+joanna_lewis
+<br>
+bailey0132317<br>
+tabu79<br>
+gmann11<br>
+chipmunk1615<br>
+creepy_200
+<br>stupid_browner17<br>
+moonheart07 <br><br>
+Thank you, voting's an important role!
+<br>
+(The two lists above orders are just the order I received neomails, it's not in any vote order or anything like that)
+
+<h3>Gifts:</h3>
+
+<h4>Participation for entering: </h4>
+Summer Landscape Background
+<br><h4>Participation for voting:</h4>
+Judge Hog Action Figure
+<br>
+Toy Judge Gavel
+<br></div>
+
+
